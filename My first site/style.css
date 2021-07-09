@@ -6,6 +6,10 @@ h1 {
 	color: blue;
 }
 
+h1:hover { 
+	color: yellow;
+}
+
 body {
 	background-color: #ff0000;
 }
