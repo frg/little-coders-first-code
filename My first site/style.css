@@ -23,7 +23,8 @@ max-width:  5%;
 
 #top p{
 	
-font-size: 6vmin
+font-size: 6vmin;
 display:inline-block;
 margin-top:2%;
 margin-left:2%;
+}
