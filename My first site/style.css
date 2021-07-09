@@ -13,3 +13,10 @@ h1:hover {
 body {
 	background-color: #ff0000;
 }
+
+#mainimage{
+float:left;	
+max-width:  5%;
+
+}
+
